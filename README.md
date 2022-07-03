@@ -1,2 +1,2 @@
 # sikablog
-a blog project for personal use built by PHP &amp; MySQL
+A blog project for personal use built by PHP &amp; MySQL
